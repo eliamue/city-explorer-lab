@@ -1,7 +1,7 @@
 module.exports = [
   {
-    name: 'bessie',
-    cool_factor: 3,
+    name: 'Jeep',
+    cool_factor: 50,
   },
   {
     name: 'jumpy',
